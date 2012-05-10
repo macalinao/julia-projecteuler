@@ -8,8 +8,6 @@ function run()
 		sum += i
 	end
 
-	println("$sqs and $sum")
-
 	return (sum * sum) - sqs
 end
 
