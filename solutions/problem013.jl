@@ -1,4 +1,4 @@
-load("../extras/bigint.jl")
+load("bigint.jl")
 
 data = [
 BigInt("37107287533902102798797998220837590246510135740250"),
