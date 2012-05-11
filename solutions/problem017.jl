@@ -32,7 +32,6 @@ function run()
 				end
 
 				s += r
-				println("$(i - 1)$(j - 1)$(k - 1) is $(r) aka $(hnds[i]) + $(tens[j]) + $(onez[k])")
 
 			end
 		end
