@@ -1,7 +1,3 @@
-function sort_strings!(arr)
-    
-end
-
 function run()
     names_list = readall(open("../resources/names.txt"))
     names = split(names_list, ",", false)
